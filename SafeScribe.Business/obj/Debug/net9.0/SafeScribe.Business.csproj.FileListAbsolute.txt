@@ -1,0 +1,17 @@
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Business\bin\Debug\net9.0\SafeScribe.Business.deps.json
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Business\bin\Debug\net9.0\SafeScribe.Business.dll
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Business\bin\Debug\net9.0\SafeScribe.Business.pdb
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Business\bin\Debug\net9.0\SafeScribe.Data.dll
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Business\bin\Debug\net9.0\SafeScribe.Model.dll
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Business\bin\Debug\net9.0\SafeScribe.Data.pdb
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Business\bin\Debug\net9.0\SafeScribe.Model.pdb
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Business\obj\Debug\net9.0\SafeScribe.Business.csproj.AssemblyReference.cache
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Business\obj\Debug\net9.0\SafeScribe.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Business\obj\Debug\net9.0\SafeScribe.Business.AssemblyInfoInputs.cache
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Business\obj\Debug\net9.0\SafeScribe.Business.AssemblyInfo.cs
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Business\obj\Debug\net9.0\SafeScribe.Business.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Business\obj\Debug\net9.0\SafeScri.C94AF162.Up2Date
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Business\obj\Debug\net9.0\SafeScribe.Business.dll
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Business\obj\Debug\net9.0\refint\SafeScribe.Business.dll
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Business\obj\Debug\net9.0\SafeScribe.Business.pdb
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Business\obj\Debug\net9.0\ref\SafeScribe.Business.dll

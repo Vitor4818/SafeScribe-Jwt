@@ -1,0 +1,291 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Vitor Gomes\\Documents\\cp4-dotnet\\SafeScribe.API\\SafeScribe.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Vitor Gomes\\Documents\\cp4-dotnet\\SafeScribe.API\\SafeScribe.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vitor Gomes\\Documents\\cp4-dotnet\\SafeScribe.API\\SafeScribe.API.csproj",
+        "projectName": "SafeScribe.API",
+        "projectPath": "C:\\Users\\Vitor Gomes\\Documents\\cp4-dotnet\\SafeScribe.API\\SafeScribe.API.csproj",
+        "packagesPath": "C:\\Users\\Vitor Gomes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vitor Gomes\\Documents\\cp4-dotnet\\SafeScribe.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vitor Gomes\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Vitor Gomes\\Documents\\cp4-dotnet\\SafeScribe.Business\\SafeScribe.Business.csproj": {
+                "projectPath": "C:\\Users\\Vitor Gomes\\Documents\\cp4-dotnet\\SafeScribe.Business\\SafeScribe.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Vitor Gomes\\Documents\\cp4-dotnet\\SafeScribe.Business\\SafeScribe.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vitor Gomes\\Documents\\cp4-dotnet\\SafeScribe.Business\\SafeScribe.Business.csproj",
+        "projectName": "SafeScribe.Business",
+        "projectPath": "C:\\Users\\Vitor Gomes\\Documents\\cp4-dotnet\\SafeScribe.Business\\SafeScribe.Business.csproj",
+        "packagesPath": "C:\\Users\\Vitor Gomes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vitor Gomes\\Documents\\cp4-dotnet\\SafeScribe.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vitor Gomes\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Vitor Gomes\\Documents\\cp4-dotnet\\SafeScribe.Data\\SafeScribe.Data.csproj": {
+                "projectPath": "C:\\Users\\Vitor Gomes\\Documents\\cp4-dotnet\\SafeScribe.Data\\SafeScribe.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Vitor Gomes\\Documents\\cp4-dotnet\\SafeScribe.Data\\SafeScribe.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vitor Gomes\\Documents\\cp4-dotnet\\SafeScribe.Data\\SafeScribe.Data.csproj",
+        "projectName": "SafeScribe.Data",
+        "projectPath": "C:\\Users\\Vitor Gomes\\Documents\\cp4-dotnet\\SafeScribe.Data\\SafeScribe.Data.csproj",
+        "packagesPath": "C:\\Users\\Vitor Gomes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vitor Gomes\\Documents\\cp4-dotnet\\SafeScribe.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vitor Gomes\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Vitor Gomes\\Documents\\cp4-dotnet\\SafeScribe.Model\\SafeScribe.Model.csproj": {
+                "projectPath": "C:\\Users\\Vitor Gomes\\Documents\\cp4-dotnet\\SafeScribe.Model\\SafeScribe.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Vitor Gomes\\Documents\\cp4-dotnet\\SafeScribe.Model\\SafeScribe.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vitor Gomes\\Documents\\cp4-dotnet\\SafeScribe.Model\\SafeScribe.Model.csproj",
+        "projectName": "SafeScribe.Model",
+        "projectPath": "C:\\Users\\Vitor Gomes\\Documents\\cp4-dotnet\\SafeScribe.Model\\SafeScribe.Model.csproj",
+        "packagesPath": "C:\\Users\\Vitor Gomes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vitor Gomes\\Documents\\cp4-dotnet\\SafeScribe.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vitor Gomes\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

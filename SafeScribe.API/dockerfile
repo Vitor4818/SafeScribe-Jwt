@@ -1,0 +1,27 @@
+# Etapa 1: Build
+FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
+WORKDIR /src
+
+# Copia todos os projetos e restaura as dependências
+COPY *.sln ./
+COPY SafeScribe.API/SafeScribe.API.csproj SafeScribe.API/
+COPY SafeScribe.Business/SafeScribe.Business.csproj SafeScribe.Business/
+COPY SafeScribe.Data/SafeScribe.Data.csproj SafeScribe.Data/
+COPY SafeScribe.Model/SafeScribe.Model.csproj SafeScribe.Model/
+RUN dotnet restore SafeScribe.API/SafeScribe.API.csproj
+
+# Copia o restante do código e faz o build
+COPY . .
+WORKDIR /src/SafeScribe.API
+RUN dotnet publish -c Release -o /app/publish
+
+# Etapa 2: Runtime
+FROM mcr.microsoft.com/dotnet/aspnet:9.0 AS final
+WORKDIR /app
+COPY --from=build /app/publish .
+EXPOSE 8080
+
+# Define a variável de ambiente para o ASP.NET
+ENV ASPNETCORE_URLS=http://+:8080
+
+ENTRYPOINT ["dotnet", "SafeScribe.API.dll"]

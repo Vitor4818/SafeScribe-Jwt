@@ -1,0 +1,15 @@
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Data\bin\Debug\net9.0\SafeScribe.Data.deps.json
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Data\bin\Debug\net9.0\SafeScribe.Data.dll
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Data\bin\Debug\net9.0\SafeScribe.Data.pdb
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Data\bin\Debug\net9.0\SafeScribe.Model.dll
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Data\bin\Debug\net9.0\SafeScribe.Model.pdb
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Data\obj\Debug\net9.0\SafeScribe.Data.csproj.AssemblyReference.cache
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Data\obj\Debug\net9.0\SafeScribe.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Data\obj\Debug\net9.0\SafeScribe.Data.AssemblyInfoInputs.cache
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Data\obj\Debug\net9.0\SafeScribe.Data.AssemblyInfo.cs
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Data\obj\Debug\net9.0\SafeScribe.Data.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Data\obj\Debug\net9.0\SafeScri.3F9D5B5C.Up2Date
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Data\obj\Debug\net9.0\SafeScribe.Data.dll
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Data\obj\Debug\net9.0\refint\SafeScribe.Data.dll
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Data\obj\Debug\net9.0\SafeScribe.Data.pdb
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Data\obj\Debug\net9.0\ref\SafeScribe.Data.dll

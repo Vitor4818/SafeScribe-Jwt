@@ -1,0 +1,11 @@
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Model\bin\Debug\net9.0\SafeScribe.Model.deps.json
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Model\bin\Debug\net9.0\SafeScribe.Model.dll
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Model\bin\Debug\net9.0\SafeScribe.Model.pdb
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Model\obj\Debug\net9.0\SafeScribe.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Model\obj\Debug\net9.0\SafeScribe.Model.AssemblyInfoInputs.cache
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Model\obj\Debug\net9.0\SafeScribe.Model.AssemblyInfo.cs
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Model\obj\Debug\net9.0\SafeScribe.Model.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Model\obj\Debug\net9.0\SafeScribe.Model.dll
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Model\obj\Debug\net9.0\refint\SafeScribe.Model.dll
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Model\obj\Debug\net9.0\SafeScribe.Model.pdb
+C:\Users\Vitor Gomes\Documents\cp4-dotnet\SafeScribe.Model\obj\Debug\net9.0\ref\SafeScribe.Model.dll
